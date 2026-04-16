@@ -13,6 +13,7 @@ Hệ thống Quản lý Sự kiện là một ứng dụng hỗ trợ quản lý
 - Cập nhật thông tin sự kiện
 - Xóa sự kiện
 - Tìm kiếm sự kiện theo tên, thời gian hoặc trạng thái
+- Xử lý một số ràng buộc khi quản lý
 
 ### Quản lý người tham dự
 - Đăng ký người tham gia sự kiện
