@@ -40,7 +40,7 @@ Hệ thống Quản lý Sự kiện là một ứng dụng hỗ trợ quản lý
 
 ## Công nghệ sử dụng
 - C#
-- Windows Forms / ASP.NET (tùy project)
+- Windows Forms
 - SQL Server
 - ADO.NET
 
