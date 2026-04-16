@@ -1,4 +1,4 @@
-# Quan_ly_dang_ky_sukien
+
 # Hệ thống Quản lý Sự kiện
 
 ## Giới thiệu
