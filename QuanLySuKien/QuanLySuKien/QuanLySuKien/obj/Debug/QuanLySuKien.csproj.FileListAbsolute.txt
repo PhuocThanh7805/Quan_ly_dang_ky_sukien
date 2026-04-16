@@ -1,0 +1,139 @@
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\bin\Debug\QuanLySuKien.exe.config
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\bin\Debug\QuanLySuKien.exe
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\bin\Debug\QuanLySuKien.pdb
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.CapNhatTrangThai.resources
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.DangKyThamDu.resources
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.DanhSachNguoiThamDu.resources
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.DanhSachSuKien.resources
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.FormDangKi.resources
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.FormDangNhap.resources
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.Properties.Resources.resources
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLyLoaiSuKien.resources
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLyNhaToChuc.resources
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLySuKien.resources
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLyTrangThaiSuKien.resources
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.TrangChuAdmin.resources
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.TrangChuNguoiDangKy.resources
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.exe
+C:\Users\nguye\Downloads\QuanLySuKien\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.pdb
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\bin\Debug\QuanLySuKien.exe.config
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\bin\Debug\QuanLySuKien.exe
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\bin\Debug\QuanLySuKien.pdb
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.AssemblyReference.cache
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.exe.config
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.CapNhatTrangThai.resources
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.DangKyThamDu.resources
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.DanhSachNguoiThamDu.resources
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.DanhSachSuKien.resources
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.FormDangKi.resources
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.FormDangNhap.resources
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.Properties.Resources.resources
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLyLoaiSuKien.resources
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLyNhaToChuc.resources
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLySuKien.resources
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLyTrangThaiSuKien.resources
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.TrangChuAdmin.resources
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.TrangChuNguoiDangKy.resources
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.GenerateResource.cache
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.CoreCompileInputs.cache
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.exe
+C:\Users\sanhv\Downloads\done\done\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.pdb
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\bin\Debug\QuanLySuKien.exe.config
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\bin\Debug\QuanLySuKien.exe
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\bin\Debug\QuanLySuKien.pdb
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.AssemblyReference.cache
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.exe.config
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.CapNhatTrangThai.resources
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.DangKyThamDu.resources
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.DanhSachNguoiThamDu.resources
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.DanhSachSuKien.resources
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.FormDangKi.resources
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.FormDangNhap.resources
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.Properties.Resources.resources
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLyLoaiSuKien.resources
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLyNhaToChuc.resources
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLySuKien.resources
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.TrangChuAdmin.resources
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.TrangChuNguoiDangKy.resources
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.GenerateResource.cache
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.CoreCompileInputs.cache
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.exe
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.pdb
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.ResolveComReference.cache
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.ThongKe.resources
+C:\Users\sanhv\Downloads\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.ThongKeNhaToChuc.resources
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\bin\Debug\QuanLySuKien.exe.config
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\bin\Debug\QuanLySuKien.exe
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\bin\Debug\QuanLySuKien.pdb
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.AssemblyReference.cache
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.exe.config
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.ResolveComReference.cache
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.CapNhatTrangThai.resources
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.DangKyThamDu.resources
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.DanhSachNguoiThamDu.resources
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.DanhSachSuKien.resources
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.FormDangKi.resources
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.FormDangNhap.resources
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.Properties.Resources.resources
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLyLoaiSuKien.resources
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLyNhaToChuc.resources
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLySuKien.resources
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.ThongKe.resources
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.ThongKeNhaToChuc.resources
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.TrangChuAdmin.resources
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.TrangChuNguoiDangKy.resources
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.GenerateResource.cache
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.CoreCompileInputs.cache
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.exe
+C:\Users\sanhv\Downloads\QuanLySuKien1\QuanLySuKien\obj\Debug\QuanLySuKien.pdb
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\bin\Debug\QuanLySuKien.exe.config
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\bin\Debug\QuanLySuKien.exe
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\bin\Debug\QuanLySuKien.pdb
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.AssemblyReference.cache
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.exe.config
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.ResolveComReference.cache
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.CapNhatTrangThai.resources
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.DangKyThamDu.resources
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.DanhSachNguoiThamDu.resources
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.DanhSachSuKien.resources
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.FormDangKi.resources
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.FormDangNhap.resources
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.Properties.Resources.resources
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLyLoaiSuKien.resources
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLyNhaToChuc.resources
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLySuKien.resources
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.ThongKe.resources
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.ThongKeNhaToChuc.resources
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.TrangChuAdmin.resources
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.TrangChuNguoiDangKy.resources
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.GenerateResource.cache
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.CoreCompileInputs.cache
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.exe
+C:\Users\huynh\source\repos\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.pdb
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\bin\Debug\QuanLySuKien.exe.config
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\bin\Debug\QuanLySuKien.exe
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\bin\Debug\QuanLySuKien.pdb
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.AssemblyReference.cache
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.exe.config
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.ResolveComReference.cache
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.CapNhatTrangThai.resources
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.DangKyThamDu.resources
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.DanhSachNguoiThamDu.resources
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.DanhSachSuKien.resources
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.FormDangKi.resources
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.FormDangNhap.resources
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.Properties.Resources.resources
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLyLoaiSuKien.resources
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLyNhaToChuc.resources
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.QuanLySuKien.resources
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.ThongKe.resources
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.ThongKeNhaToChuc.resources
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.TrangChuAdmin.resources
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.TrangChuNguoiDangKy.resources
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.GenerateResource.cache
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.csproj.CoreCompileInputs.cache
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.exe
+C:\Users\sanhv\Downloads\QuanLySuKien (1)\QuanLySuKien\QuanLySuKien\QuanLySuKien\obj\Debug\QuanLySuKien.pdb
