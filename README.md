@@ -46,5 +46,3 @@ Hệ thống Quản lý Sự kiện là một ứng dụng hỗ trợ quản lý
 - ADO.NET
 
 ---
-
-## Cấu trúc hệ thống (gợi ý)
